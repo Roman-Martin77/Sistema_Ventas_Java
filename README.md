@@ -1,3 +1,4 @@
-# Sistema de venta desarrollado en Java, utilice Xanpp, phpMyAdmin.
-# Utilicé IDE Netbeans 17 . 
+# Sistema de venta desarrollado en Java
+## Utilicé Xampp y phpMyAdmin
+## IDE: NetBeans 17
 
